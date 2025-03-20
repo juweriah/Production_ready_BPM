@@ -68,7 +68,7 @@ Production_ready_BPM is an automated system that takes input from form entries, 
    - Locate the **"Content ID"**—this is your Folder ID.  
 - Click **OK** to save the changes.  
 
-## Updating the Cloned File in Document  
+## Updating the File in Document  
 
 - Click on **"Update the Cloned File in Document"** service task.  
 - Click on **"Choose the Data"**.  
