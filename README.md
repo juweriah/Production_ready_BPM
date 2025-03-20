@@ -70,18 +70,20 @@ Production_ready_BPM is an automated system that takes input form entries proces
 
 ## Updating the Bookmark 
 
-**Bookmarks** in 3DEXPERIENCE allow users to organize and manage important documents and files for easy access and collaboration within the platform.  
+*Bookmarks* in 3DEXPERIENCE allow users to organize and manage important documents and files for easy access and collaboration within the platform.  
 
-1. Click on **\"Update in Bookmark\"** service task.  
-2. Click on **\"Choose the Data\"**.  
-3. Select the **\"Bookmark ID\"** field and click on **\"Settings\"** under it.  
-4. Enter the **Bookmark ID** according to your bookmark.  
-5. Under the **\"Content Type\"** field, click **\"Settings\"** and set the **name of the file** to be added to your bookmark.  
-6. Under the **\"User\"** field, click **\"Settings\"**.  
+1. Click on **"Update in Bookmark"** service task.  
+2. Click on **"Choose the Data"**.  
+3. Select the **"Bookmark ID"** field and click on **"Settings"** under it.  
+4. **Enter the Bookmark ID according to your bookmark.**  
+   - If you already have the **Bookmark ID**, enter it directly.  
+   - If you do not have the **Bookmark ID**, right-click on the bookmark, **copy the link**, and extract the Bookmark ID by decrypting the encrypted URL.  
+5. Under the **"Content Type"** field, click **"Settings"** and set the **name of the file** to be added to your bookmark.  
+6. Under the **"User"** field, click **"Settings"**.  
 7. Select the **user** to be the **creator** of the document.  
 8. Click **OK** to save the changes.  
 
-> **🔹 Note:** Ensure that the **Bookmark ID** matches your intended folder in the platform to avoid misplacement of files.
+**Note:**  Ensure that the **Bookmark ID** matches your intended folder in the platform to avoid misplacement of files.  
 
 
 ## Testing
