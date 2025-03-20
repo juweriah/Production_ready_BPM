@@ -2,12 +2,12 @@
 Production_ready_BPM is an automated system that takes input form entries processes the data, sends personalized emails, and stores modified documents in 3Ddrive and Bookmark Editor.
 
 ## Features
-- 📝 Form submission with User ID, Name, College, Semester, and file upload.
-- 📧 Sends personalized emails with modified template files.
-- 📂 Uploads files to cloud storage (3D Drive).
-- 🔖 Uploads documents to the document management system and adds them to the bookmark editor for quick access.
+- Form submission with User ID, Name, College, Semester, and file upload.
+- Sends personalized emails with modified template files.
+- Uploads files to cloud storage (3D Drive).
+- Uploads documents to the document management system and adds them to the bookmark editor for quick access.
 
-## 📝 **Pre-requisites**
+## Pre-requisites
 
 - Access to DS India Cloud Tenant:  
    - The external link to access **DS India Cloud**:  
@@ -43,7 +43,7 @@ Production_ready_BPM is an automated system that takes input form entries proces
 - The uploaded file is **cloned and converted** into a PDF document.  
 - The business table (**InternData**) is pre-created and automatically stores new entries.  
 
-## 📩 **Sending an Email**
+## Sending an Email
 
 - The email contains the following **pre-filled fields**:  
    - Recipient Email  
@@ -100,7 +100,7 @@ To ensure that your business process works correctly:
 - Re-run the test after making corrections until the process is error-free.
 
   
-## 🚀 **Deployment**
+## Deployment
 
 To deploy the model successfully:
 
@@ -110,7 +110,7 @@ To deploy the model successfully:
 
 ✅ Once deployed, the model is ready to be used for executing tasks like adding entries, sending emails, and uploading documents.  
 
-## 🎨 **Customizing Model Settings**
+## Customizing Model Settings
 
 Before deployment, configure the following settings to ensure easy identification and smooth management:
 
@@ -123,7 +123,7 @@ Before deployment, configure the following settings to ensure easy identificatio
 - **Tags:** Add relevant **tags** (e.g., "intern") to quickly locate and categorize the model.  
    - Tags make it easier to filter and identify processes in the repository.  
 
-## 👥 **Changing Ownership**
+## Changing Ownership
 
 If you need to transfer ownership:
 
@@ -133,7 +133,7 @@ If you need to transfer ownership:
 
 Ownership change ensures that the right person has control over the model and its configurations.  
 
-## ⚙️ **Modifying Role Assignments**
+## Modifying Role Assignments
 
 After deployment, configure user roles to control process access and monitoring:
 
