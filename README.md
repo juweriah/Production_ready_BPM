@@ -3,27 +3,18 @@ Production_ready_BPM is an automated system that takes input from form entries, 
 
 ## Features  
 
-- Form submission with **User ID**, **Name**, **College**, **Semester**, and **file upload**.  
+- Form submission with **User ID**, **Name**, **College**, **Semester**, and **Email ID**.  
 - Sends personalized emails with modified template files.  
 - Uploads files to cloud storage (3D Drive).  
 - Uploads documents to the document management system and adds them to the Bookmark Editor for quick access.  
 
 ## Pre-requisites  
 
-- Access to DS India Cloud Tenant:  
-   - The external link to access **DS India Cloud**:  
-      [DS India Cloud Access](https://r1132100693975-indw2-ifwe.3dexperience.3ds.com/#dashboard:3e685cbb-2d29-4182-8b59-a799fe7a4f98/tabId:A8o176KA09QJjqNChWTS/fullscreen:A8ZcDT0A09_a7sN84WEG)  
-   - Create your own account using your **email ID and password**.  
+- Access to Cloud Tenant:  
 
 - Access to the following roles on the platform:  
    - **Business Process Designer** role  
-   - **Business Process Play** role  
-   - **Bookmark Editor**  
-   - **3D Drive**  
-   - **3D Play**  
-
-- Access to the following Security Context:  
-   - **VPLMProjectLeader.Company Name.Common Space**  
+   - **Business Process Play** role    
 
 ## Importing the Model  
 
